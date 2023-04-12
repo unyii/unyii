@@ -1,41 +1,22 @@
-### Hi there 👋
+# Hi there, I'm Joan 👋
+I'm a UI/UX designer and product designer with years of experience designing user-friendly and visually appealing digital products that solve complex problems.
 
-### I'm Joan
+## My design philosophy
+I believe that good design is not just about making things look pretty, but also about creating solutions that work seamlessly and efficiently for users. My approach to design is always user-centric and research-driven, starting with a deep understanding of the users' needs, pain points, and behaviors. I also value collaboration and open communication, and I enjoy working closely with cross-functional teams to bring ideas to life.
 
-<!--
-**unyii/unyii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## My design skills
+Here are some of the design skills and tools I'm proficient in:
 
-Here are some ideas to get you started:
+- User research and analysis
+- Information architecture and wireframing
+- Prototyping and user testing
+- Visual design and branding
+- UI animation and interaction design
+- Figma, Sketch, Adobe Creative Suite, InVision
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My design portfolio
+You can check out my design portfolio (here)[https://unyii.github.io/], where you'll find examples of my work in various industries and design contexts. 
 
+Feel free to reach out to me via mail for any questions or project inquiries. 
 
-graph LR
-
-A[Beginner Level] --> B((Introduction to User Experience Design))
-A --> C((Fundamentals of User Interface Design))
-A --> D((Introduction to Design Tools))
-A --> E((Visual Design Fundamentals))
-
-B --> F([What is UX Design?])
-B --> G([The Importance of UX Design])
-B --> H([User-Centered Design])
-
-C --> I([What is UI Design?])
-C --> J([UI Design Best Practices])
-C --> K([Designing for Mobile])
-
-D --> L([Introduction to Design Tools])
-D --> M([Getting Started with Figma, Sketch or XD])
-
-E --> N([Typography])
-E --> O([Color Theory])
-E --> P([Layout and Composition])
+I'm always open to new opportunities and collaborations!
