@@ -15,7 +15,7 @@ Here are some of the design skills and tools I'm proficient in:
 - Figma, Sketch, Adobe Creative Suite, InVision
 
 ## My design portfolio
-You can check out my design portfolio (here)[https://unyii.github.io/], where you'll find examples of my work in various industries and design contexts. 
+You can check out my design portfolio [here](https://unyii.github.io/), where you'll find examples of my work in various industries and design contexts. 
 
 Feel free to reach out to me via mail for any questions or project inquiries. 
 
