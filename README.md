@@ -1,4 +1,6 @@
 # Hi there, I'm Joan 👋
+![banner](./joan.png)
+
 I'm a UI/UX designer and product designer with years of experience designing user-friendly and visually appealing digital products that solve complex problems.
 
 ## My design philosophy
